@@ -257,7 +257,7 @@ after all the tests you are ready to containerize everything and then deploy
             "repositoryArn": "arn:aws:ecr:eu-central-1:99999999999:repository/name_of_your_repository",
             "registryId": "99999999999",
             "repositoryName": "name_of_your_repository",
-            "repositoryUri": "566064895673.dkr.ecr.eu-central-1.amazonaws.com/name_of_your_repository",
+            "repositoryUri": "999999999999.dkr.ecr.eu-central-1.amazonaws.com/name_of_your_repository",
             "createdAt": "2023-12-18T19:13:57+01:00",
             "imageTagMutability": "MUTABLE",
             "imageScanningConfiguration": {
