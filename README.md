@@ -42,7 +42,7 @@ This project constains the following files:
 
 * [README.md](https://github.com/dr-zaib/music-genre-classification/blob/main/README.md): contains all the info about the project and how to access the service 
 
-[NB: the following script is too big to be here on github, you can visualize it on colab]
+[NB: the following script is too big to be here on github, you can visualize it on colab; make sure to select colab as the linked app; you can also see in this [drive folder](https://drive.google.com/drive/folders/1g40ZKjE45oG3U4B1MgyJ5yxVrsgQTo_6?usp=sharing)]
 * [notebook.ipynb](https://drive.google.com/file/d/1M4oQkA1Wfd6JHzMihtS9pJj0_jpAuN0M/view?usp=sharing): script with 
     - data preparation 
     - EDA: this analysis has been made genarally and also for each train model
