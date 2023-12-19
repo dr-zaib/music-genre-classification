@@ -332,9 +332,10 @@ the service is ready to be used!
 
 In case you are not able to see the videos here, check this drive [folder](https://drive.google.com/drive/folders/1g40ZKjE45oG3U4B1MgyJ5yxVrsgQTo_6?usp=sharing) to see them!
 
+
+
 ![video](https://github.com/dr-zaib/music-genre-classification/blob/main/video1.webm)
 
-![video](https://drive.google.com/file/d/1-IrtqxE-3eDS9O6CQZs35ER6wQfx8J7m/view?usp=sharing)
 
 
 ![video](https://github.com/dr-zaib/music-genre-classification/blob/main/video2.webm)
