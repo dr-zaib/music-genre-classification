@@ -31,7 +31,7 @@ Among the available genres are:
 The model can surely be enlarged and trained on more genres, depending on the dataset. 
 More information on the dataset used for this scope can be found [here](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification).
 
-Therefore, this service can represent an optimal baseline for a bigger standalone service or an application, useful for musicians, not only, but it can also it can be an integrated service to online music promotion platforms or services.
+Therefore, this service can represent an optimal baseline for a bigger standalone service or an application, useful for musicians, not only, but it can also it can be an integrated service to online music distribution and promotion platforms or services.
 
 
 
